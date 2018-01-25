@@ -6,6 +6,17 @@ How Do you run my app:
 * Open .xcworkspace 
 * Run app 
 
+<details>
+<summary>Setup a UIWindow</summary>
+  
+```swift
+window = UIWindow(frame: UIScreen.main.bounds)
+window.makeKeyVisible
+```
+
+ </details>
+
+
 [HomePage](https://alexcpaul.com/)  
 
 A Table 
