@@ -8,3 +8,11 @@ How Do you run my app:
 
 [HomePage](https://alexcpaul.com/)  
 
+A Table 
+
+|Cool Podcasts|Summary|
+|:-------|:-------|
+|IMTalk|Ironman Weekly Podcast|
+|Under The Radar|Swift Dev Podcasts|
+|SwiftCoders|By John Sundell - Great guests|
+
